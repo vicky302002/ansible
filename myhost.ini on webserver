@@ -1,0 +1,2 @@
+[webserver]
+172.31.85.127 ansible_ssh_user='ubuntu' ansible_private_key_file="N.verginia.pem"
